@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# :fire: Crud Task With React & TailwindCSS :fire:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [TailwindCSS](https://tailwindcss.com)
 
